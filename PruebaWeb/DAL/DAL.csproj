@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="ClienteDAL.cs" />
     <Compile Include="clsConexion.cs" />
+    <Compile Include="clsConexionLibros.cs" />
+    <Compile Include="LibrosDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

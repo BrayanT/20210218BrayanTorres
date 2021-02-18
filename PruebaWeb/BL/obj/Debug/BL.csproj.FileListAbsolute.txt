@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\bin\Debug\BL.dll
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\bin\Debug\BL.pdb
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\bin\Debug\DAL.dll
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\bin\Debug\ENT.dll
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\bin\Debug\DAL.pdb
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\bin\Debug\ENT.pdb
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\obj\Debug\BL.dll
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\BL\obj\Debug\BL.pdb

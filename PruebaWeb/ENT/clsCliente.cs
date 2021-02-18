@@ -14,4 +14,12 @@ namespace Ent
         public  int telefono { get; set; }
         public  string email { get; set; }
     }
+    public class clsRegistro
+    {
+        public  int id { get; set; }
+        public  string nombreLibro { get; set; }
+        public  string autor { get; set; }
+        public  string nombreCliente { get; set; }
+        public string emailCliente { get; set; }
+    }
 }

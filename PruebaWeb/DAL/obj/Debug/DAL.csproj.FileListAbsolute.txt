@@ -1,2 +1,9 @@
 C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
 C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\bin\Debug\DAL.dll
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\bin\Debug\DAL.pdb
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\bin\Debug\ENT.dll
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\bin\Debug\ENT.pdb
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\obj\Debug\DAL.dll
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\obj\Debug\DAL.pdb
