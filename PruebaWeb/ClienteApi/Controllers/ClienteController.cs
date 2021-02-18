@@ -9,7 +9,7 @@ using BL;
 
 namespace ClienteApi.Controllers
 {
- 
+
     public class ClienteController : ApiController
     {
         ClienteBL _ClienteActions = new ClienteBL();
