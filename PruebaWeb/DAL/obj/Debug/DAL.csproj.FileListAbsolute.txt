@@ -1,0 +1,2 @@
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

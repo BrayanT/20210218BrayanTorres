@@ -48,3 +48,7 @@ Thumbs.db
 *.mov
 *.wmv
 
+PruebaWeb/.vs/PruebaWeb/v16/Server/sqlite3/storage.ide-wal
+PruebaWeb/.vs/PruebaWeb/v16/Server/sqlite3/storage.ide-shm
+PruebaWeb/.vs/PruebaWeb/v16/Server/sqlite3/storage.ide
+PruebaWeb/.vs/PruebaWeb/v16/Server/sqlite3/db.lock

@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\ENT\bin\Debug\netstandard2.0\ENT.deps.json
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\ENT\bin\Debug\netstandard2.0\ENT.dll
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\ENT\bin\Debug\netstandard2.0\ENT.pdb
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\ENT\obj\Debug\netstandard2.0\ENT.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\ENT\obj\Debug\netstandard2.0\ENT.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\ENT\obj\Debug\netstandard2.0\ENT.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\ENT\obj\Debug\netstandard2.0\ENT.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\ENT\obj\Debug\netstandard2.0\ENT.dll
+C:\Users\USUARIO\Documents\pruebaweb\PruebaWeb\ENT\obj\Debug\netstandard2.0\ENT.pdb
